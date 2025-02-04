@@ -7,6 +7,13 @@
 
 * Update test ([aded3cf](https://github.com/4m-mazi/gh-test/commit/aded3cf9847c7fc0944284f9788ce960a6069f89))
 
+## [4.0.1](https://github.com/4m-mazi/gh-test/compare/v4.0.0...v4.0.1) (2025-02-04)
+
+
+### Bug Fixes
+
+* Update test ([aded3cf](https://github.com/4m-mazi/gh-test/commit/aded3cf9847c7fc0944284f9788ce960a6069f89))
+
 ## [4.0.0](https://github.com/4m-mazi/gh-test/compare/v3.4.37...v4.0.0) (2025-01-31)
 
 
